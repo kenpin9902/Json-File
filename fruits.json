@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdae"
+  },
+  "name": "Apple",
+  "image": "Apple.jpg",
+  "price": 3,
+  "description": "Apples contain antioxidants, vitamin C, fiber, and several other nutrients that may boost heart, brain, and digestive health."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdaf"
+  },
+  "name": "Orange",
+  "image": "Orange.jpg",
+  "price": 5,
+  "description": "Oranges are a type of healthy, low calorie, highly nutritious citrus fruit. As part of a healthful and varied diet, oranges contribute to strong, clear skin."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb0"
+  },
+  "name": "Mango",
+  "image": "Mango.jpg",
+  "price": 4,
+  "description": "Mangoes have a sweet, creamy taste and contain over 20 vital vitamins and minerals."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb1"
+  },
+  "name": "Durian",
+  "image": "Durian.jpg",
+  "price": 25,
+  "description": "Durian is a tropical fruit distinguished by its large size and spiky, hard outer shell."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb2"
+  },
+  "name": "Banana",
+  "image": "Banana.jpg",
+  "price": 2,
+  "description": "Bananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb3"
+  },
+  "name": "Coconut",
+  "image": "Coconut.jpg",
+  "price": 10,
+  "description": "Coconut meat is the white flesh of coconuts and is edible fresh or dried."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb4"
+  },
+  "name": "Papaya",
+  "image": "Papaya.jpg",
+  "price": 3,
+  "description": "Papaya is a sweet, fleshy fruit native to Mexico. People can eat its pinkish-orange soft flesh on its own or add it to salads, smoothies, or other dishes."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb5"
+  },
+  "name": "Lemon",
+  "image": "Lemon.jpg",
+  "price": 7,
+  "description": "The lemon is a popular citrus fruit that is high in vitamin C and many powerful nutrients. Lemons may have numerous benefits for health."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb6"
+  },
+  "name": "Rambutan",
+  "image": "Rambutan.jpg",
+  "price": 8,
+  "description": "rambutan is a nutritious fruit with a hairy shell and sweet, edible flesh."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb7"
+  },
+  "name": "Watermelon",
+  "image": "Watermelon.jpg",
+  "price": 13,
+  "description": "Watermelon is around 90% water, which makes it useful for staying hydrated in the summer. It can also satisfy a sweet tooth with its natural sugars."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb8"
+  },
+  "name": "Pineapple",
+  "image": "Pineapple.jpg",
+  "price": 12,
+  "description": "Pineapple is a tropical and nutritious fruit. While more research is necessary, pineapple may possess many health benefits, such as treating digestive problems and inflammation."
+},
+{
+  "_id": {
+    "$oid": "67a17597a44e140c96d7bdb9"
+  },
+  "name": "Strawberries",
+  "image": "Strawberries.jpg",
+  "price": 9,
+  "description": "Strawberries are very healthy, containing many antioxidants and vitamins."
+}]
